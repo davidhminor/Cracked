@@ -21,11 +21,11 @@
     "monode": "^3.0.1"
   },
   "devDependencies": {
-    "@electron/packager": "^19.0.1",
-    "electron": "^43.2.0",
-    "electron-builder": "^26.0.12",
     "@electron/notarize": "^3.1.1",
-    "dotenv": "^17.2.3"
+    "@electron/packager": "^20.3.0",
+    "dotenv": "^17.2.3",
+    "electron": "^43.2.0",
+    "electron-builder": "^26.0.12"
   },
   "scripts": {
     "start": "electron .",
